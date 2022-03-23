@@ -1,4 +1,4 @@
-package com.bedirhan.undergraduate.CSE102.CSE102L.Assignment01;
+package com.bedirhan.undergraduate.CSE102.CSE102T.Assignment01;
 
 /**
  * @author Bedirhan Tonğ
