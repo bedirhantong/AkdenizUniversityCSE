@@ -1,4 +1,4 @@
-package com.bedirhan.undergraduate.CSE101.Fall.Assignments.Assignment01;
+package com.bedirhan.undergraduate.CSE101.CSE101T.Fall.Assignments.Assignment01;
 
 /**
  * @author Bedirhan ( 20200808033 )

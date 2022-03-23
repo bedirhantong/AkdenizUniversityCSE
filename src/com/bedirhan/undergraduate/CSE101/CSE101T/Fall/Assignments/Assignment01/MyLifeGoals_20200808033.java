@@ -1,4 +1,4 @@
-package com.bedirhan.undergraduate.CSE101.Fall.Assignments.Assignment01;
+package com.bedirhan.undergraduate.CSE101.CSE101T.Fall.Assignments.Assignment01;
 
 public class MyLifeGoals_20200808033 {
     public static void main(String[] args) {

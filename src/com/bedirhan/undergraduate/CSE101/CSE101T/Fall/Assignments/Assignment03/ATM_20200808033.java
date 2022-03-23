@@ -1,4 +1,4 @@
-package com.bedirhan.undergraduate.CSE101.Fall.Assignments.Assignment03;
+package com.bedirhan.undergraduate.CSE101.CSE101T.Fall.Assignments.Assignment03;
 
 /**
  * @author Bedirhan Tong
