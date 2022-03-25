@@ -9,6 +9,7 @@ public class Assignment01_20200808033 {
 
     }
 }
+
 class Account{
     private final String acctNum;
     private double balance;
