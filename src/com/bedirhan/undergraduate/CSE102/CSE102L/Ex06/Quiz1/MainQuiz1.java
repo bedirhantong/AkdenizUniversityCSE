@@ -1,4 +1,4 @@
-package com.bedirhan.undergraduate.CSE102.CSE102L.Ex06.Assignment02;
+package com.bedirhan.undergraduate.CSE102.CSE102L.Ex06.Quiz1;
 
 import java.util.ArrayList;
 import java.util.Random;
